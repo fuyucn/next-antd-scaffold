@@ -35,18 +35,7 @@
   resolved "https://registry.npm.taobao.org/@ant-design/icons-svg/download/@ant-design/icons-svg-4.0.0.tgz?cache=0&sync_timestamp=1582859592229&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40ant-design%2Ficons-svg%2Fdownload%2F%40ant-design%2Ficons-svg-4.0.0.tgz#6683db0df97c0c6900bb28a280faf391522ec734"
   integrity sha1-ZoPbDfl8DGkAuyiigPrzkVIuxzQ=
 
-"@ant-design/icons@^4.0.0-rc.0":
-  version "4.0.2"
-  resolved "https://registry.npm.taobao.org/@ant-design/icons/download/@ant-design/icons-4.0.2.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40ant-design%2Ficons%2Fdownload%2F%40ant-design%2Ficons-4.0.2.tgz#6fce64b3e207d99d1e258ff527674e22b9b2afc0"
-  integrity sha1-b85ks+IH2Z0eJY/1J2dOIrmyr8A=
-  dependencies:
-    "@ant-design/colors" "^3.1.0"
-    "@ant-design/icons-svg" "^4.0.0"
-    classnames "^2.2.6"
-    insert-css "^2.0.0"
-    rc-util "^4.9.0"
-
-"@ant-design/icons@^4.0.2":
+"@ant-design/icons@^4.0.0-rc.0", "@ant-design/icons@^4.0.2":
   version "4.0.2"
   resolved "https://registry.npm.taobao.org/@ant-design/icons/download/@ant-design/icons-4.0.2.tgz?cache=0&sync_timestamp=1582987533785&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40ant-design%2Ficons%2Fdownload%2F%40ant-design%2Ficons-4.0.2.tgz#6fce64b3e207d99d1e258ff527674e22b9b2afc0"
   integrity sha1-b85ks+IH2Z0eJY/1J2dOIrmyr8A=
@@ -990,8 +979,9 @@ acorn-walk@^6.1.1:
   resolved "https://registry.yarnpkg.com/acorn-walk/-/acorn-walk-6.2.0.tgz#123cb8f3b84c2171f1f7fb252615b1c78a6b1a8c"
 
 acorn@^6.0.7, acorn@^6.2.1:
-  version "6.3.0"
-  resolved "https://registry.npm.taobao.org/acorn/download/acorn-6.3.0.tgz#0087509119ffa4fc0a0041d1e93a417e68cb856e"
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.1.tgz#531e58ba3f51b9dacb9a6646ca4debf5b14ca474"
+  integrity sha512-ZVA9k326Nwrj3Cj9jlh3wGFutC2ZornPNARZwsNYqQYgN0EsV2d53w5RN/co65Ohn4sUAUtb1rSUAOD6XN9idA==
 
 add-dom-event-listener@^1.1.0:
   version "1.1.0"
