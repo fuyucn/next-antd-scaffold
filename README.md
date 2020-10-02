@@ -3,9 +3,6 @@ A simple scaffold based on Next.js for quick use with ant-design, redux, redux-s
 
 English | [简体中文](./README_zh_CN.md)
 
-[![Deploy Status](https://circleci.com/gh/zeit/now-desktop.svg?style=shield)](https://next-antd-scaffold.luffyzh.now.sh/)
-[![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/zeit)
-
 ## 🏠 HomePage
 
 [Next-Antd-Scaffold-Demo](https://next-antd-scaffold.luffyzh.now.sh/)
@@ -93,10 +90,6 @@ $ yarn build
 # 3. pm2 deploy project
 $ pm2 start pm2.config.js
 ```
-
-## 🪂 Deploy By now
-
-<a target='__blank' href='https://zeit.co/now'><img src='https://avatars3.githubusercontent.com/in/8329?s=60&u=35934eb25f938206da3c68530ac900e2717abbc3&v=4' /></a>
 
 ## 💐 More Demo
 
